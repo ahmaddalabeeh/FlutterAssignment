@@ -1,6 +1,6 @@
 # flutter_application_1
 
-This project uses MVC design pattern with SOC principle (Seperation of concerns). The project has a seperate assets folder outside the lib folder that contains the images/icons folders. 
+This project uses MVC design pattern and clean arch which implements the principle of SOC (Seperation of concerns). The project has a seperate assets folder outside the lib folder that contains the images/icons folders. 
 
 Secondly, in the lib folder the project has an app folder that contains all of the folders of the app. 
 
